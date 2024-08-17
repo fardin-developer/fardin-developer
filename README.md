@@ -4,11 +4,12 @@
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
-- **Profile**: I am a dedicated **Full Stack Web Developer** with a strong passion for **Web3** and **Blockchain technologies**. My expertise spans both frontend and backend development, and I am constantly striving to enhance my skills through continuous learning and hands-on experience.
+- **Profile**: I am a **Full Stack Web Developer** with a passion for **Web3** and **Blockchain** technologies. I specialize in both frontend and backend development, continually enhancing my skills through learning and practical experience.
 
-- **Current Work**: I am actively engaged in multiple projects, where I apply my knowledge to build robust and scalable web applications. My work is driven by a desire to innovate and deliver high-quality solutions.
+- **Current Work**: I am currently working on multiple projects, focused on building robust and scalable web applications with an emphasis on innovation and quality.
 
-- **Open Source Contribution**: I am eager to give back to the community by contributing to open-source projects. Collaboration and knowledge sharing are at the core of my professional ethos.
+- **Open Source**: I actively contribute to open-source projects, valuing collaboration and knowledge sharing as key aspects of my professional growth.
+
 
 ## Connect with Me
 
