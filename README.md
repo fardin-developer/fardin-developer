@@ -17,6 +17,7 @@
 	<a href="https://www.linkedin.com/in/fardin-mustaque-28996a230/"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/fardin.mustaque.5"><img alt="Facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/fardinmustaque1"><img alt="Instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+    
 </p>
 
 ## Programming Languages
